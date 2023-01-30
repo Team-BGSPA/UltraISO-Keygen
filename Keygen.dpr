@@ -60,8 +60,8 @@ WM_INITDIALOG:
 begin
 SetWindowText(handle, 'Team BGSPA - UltraISO 9.x Retail');
 SetDlgItemText(handle, 999, 'UltraISO 9.x Retail');
-SetDlgItemText(handle, 1200, 'upper text');
-SetDlgItemText(handle, 1212, 'bottom text');
+SetDlgItemText(handle, 1200, 'Keygenned by Bang1338');
+SetDlgItemText(handle, 1212, 'Protection: Custom');
 XMPlayFromRes('XM', 'MUSIC');
 end;
 WM_COMMAND:
